@@ -11,7 +11,8 @@ As Sam Altman wrote in one of his [blog](https://blog.samaltman.com/what-i-wish-
 
 In The Bus Ticket Theory, Paul Graham, illustrates how obsessive interests drive people to excel in their chosen fields. He uses the example of bus ticket collectors, showing how intense focus on a niche area can lead to extraordinary expertise. He argues that geniuses arise from an intense focus on a particular area.
 
-As Michel de Montaigne said, Obsession is the wellspring of both genius and madness. it can fuel creativity and breakthroughs but can also push individuals to extreme lengths.
+> Obsession is the wellspring of both genius and madness. it can fuel creativity and breakthroughs but can also push individuals to extreme lengths. - Michel de Montaigne
+
 Obsession often means: Going All In, Losing track of time, Losing sleep, Losing human connection for months, Working in solitude, Barely talking, Eating the bare minimum, sometimes becoming a skeleton from lack of food intake—all because you don’t want to step out of the zone where hours blend into each other in pursuit of excellence.
 
 Enthusiasm driven obsession with enjoyment is a great superpower for learning and retaining information.
