@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "obsession"
 date:   2025-02-28 07:05:34 +0530
@@ -28,4 +28,4 @@ An obsessive interest will even bring you luck, to the extent anything can.
 Obsession is both a gift and a curse, but when harnessed correctly, it leads to groundbreaking achievements. 
 
 The challenge is knowing when to lean into it and when to step back. If channeled wisely, obsession can be the missing piece in unlocking your full potential.
-
+ -->
