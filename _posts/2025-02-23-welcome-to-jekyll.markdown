@@ -1,29 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-02-23 15:09:34 +0530
-categories: jekyll update
+title:  "obsession"
+date:   2025-02-28 07:05:34 +0530
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Everyone knows that to do great work and have a great life, you need determination and natural ability to handle anything. But there’s a third ingredient that often gets overlooked: an obsessive interest.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+As Sam Altman wrote in one of his [blog](https://blog.samaltman.com/what-i-wish-someone-had-told-me): “Optimism, obsession, self-belief, raw horsepower, and personal connections are how things get started.” When you’re obsessed, you don’t need discipline or constant self-pushing - curiosity pulls you forward.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In The Bus Ticket Theory, Paul Graham, illustrates how obsessive interests drive people to excel in their chosen fields. He uses the example of bus ticket collectors, showing how intense focus on a niche area can lead to extraordinary expertise. He argues that geniuses arise from an intense focus on a particular area.
 
-Jekyll also offers powerful support for code snippets:
+> Obsession is the wellspring of both genius and madness. it can fuel creativity and breakthroughs but can also push individuals to extreme lengths. - Michel de Montaigne
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Obsession often means: Going All In, Losing track of time, Losing sleep, Losing human connection for months, Working in solitude, Barely talking, Eating the bare minimum, sometimes becoming a skeleton from lack of food intake—all because you don’t want to step out of the zone where hours blend into each other in pursuit of excellence.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Enthusiasm driven obsession with enjoyment is a great superpower for learning and retaining information.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Every time you want to achieve something with limited time, resources, or capabilities, you must give your 1000%.
+You must be obsessed.
+Different people have different needs—there’s no one size fits all approach. To find obsession, find something that truly matters to you, something that makes you feel alive again.
+
+> “It's more promising if you're creating something, rather than just consuming something someone else creates.”
+
+An obsessive interest will even bring you luck, to the extent anything can.
+
+Obsession is both a gift and a curse, but when harnessed correctly, it leads to groundbreaking achievements. 
+
+The challenge is knowing when to lean into it and when to step back. If channeled wisely, obsession can be the missing piece in unlocking your full potential.
+
