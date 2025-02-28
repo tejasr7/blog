@@ -6,8 +6,11 @@ categories: misc
 ---
 
 Everyone knows that to do great work and have a great life, you need determination and natural ability to handle anything. But there’s a third ingredient that often gets overlooked: an obsessive interest.
+
 As Sam Altman wrote in one of his [blog](https://blog.samaltman.com/what-i-wish-someone-had-told-me): “Optimism, obsession, self-belief, raw horsepower, and personal connections are how things get started.” When you’re obsessed, you don’t need discipline or constant self-pushing - curiosity pulls you forward.
+
 In The Bus Ticket Theory, Paul Graham, illustrates how obsessive interests drive people to excel in their chosen fields. He uses the example of bus ticket collectors, showing how intense focus on a niche area can lead to extraordinary expertise. He argues that geniuses arise from an intense focus on a particular area.
+
 As Michel de Montaigne said, Obsession is the wellspring of both genius and madness. it can fuel creativity and breakthroughs but can also push individuals to extreme lengths.
 Obsession often means: Going All In, Losing track of time, Losing sleep, Losing human connection for months, Working in solitude, Barely talking, Eating the bare minimum, sometimes becoming a skeleton from lack of food intake—all because you don’t want to step out of the zone where hours blend into each other in pursuit of excellence.
 
