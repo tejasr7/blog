@@ -20,7 +20,12 @@ Enthusiasm driven obsession with enjoyment is a great superpower for learning an
 Every time you want to achieve something with limited time, resources, or capabilities, you must give your 1000%.
 You must be obsessed.
 Different people have different needs—there’s no one size fits all approach. To find obsession, find something that truly matters to you, something that makes you feel alive again.
-As Paul Graham said: “It's more promising if you're creating something, rather than just consuming something someone else creates.”
+
+> “It's more promising if you're creating something, rather than just consuming something someone else creates.”
+
 An obsessive interest will even bring you luck, to the extent anything can.
-Obsession is both a gift and a curse, but when harnessed correctly, it leads to groundbreaking achievements. The challenge is knowing when to lean into it and when to step back. If channeled wisely, obsession can be the missing piece in unlocking your full potential.
+
+Obsession is both a gift and a curse, but when harnessed correctly, it leads to groundbreaking achievements. 
+
+The challenge is knowing when to lean into it and when to step back. If channeled wisely, obsession can be the missing piece in unlocking your full potential.
 
