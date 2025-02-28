@@ -2,7 +2,7 @@
 layout: post
 title:  "obsession"
 date:   2025-02-28 15:47:34 +0530
-categories: blog
+categories: misc
 ---
 
 Everyone knows that to do great work and have a great life, you need determination and natural ability to handle anything. But there’s a third ingredient that often gets overlooked: an obsessive interest.
